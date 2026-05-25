@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SEO Content Specialist</title>
+
+  <style>
+    body{
+      margin:0;
+      font-family:Arial;
+      background:#f4f4f4;
+      color:#333;
+    }
+
+    header{
+      background:#111;
+      color:white;
+      text-align:center;
+      padding:80px 20px;
+    }
+
+    header h1{
+      font-size:50px;
+      margin:0;
+    }
+
+    header p{
+      font-size:20px;
+      margin-top:10px;
+    }
+
+    section{
+      padding:50px 20px;
+      max-width:900px;
+      margin:auto;
+    }
+
+    .card{
+      background:white;
+      padding:25px;
+      border-radius:10px;
+      margin-top:20px;
+    }
+
+    footer{
+      background:#111;
+      color:white;
+      text-align:center;
+      padding:20px;
+      margin-top:40px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Semanto Kormoker Santo</h1>
+  <p>SEO Content Specialist</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>About Me</h2>
+
+    <p>
+      I help businesses grow online with SEO content,
+      keyword research, and high-quality blog writing.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Services</h2>
+
+    <ul>
+      <li>SEO Blog Writing</li>
+      <li>Keyword Research</li>
+      <li>On-Page SEO</li>
+      <li>WordPress Publishing</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  © 2026 Semanto
+</footer>
+
+</body>
+</html>
+```
